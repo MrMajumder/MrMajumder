@@ -1,5 +1,5 @@
 
-<img align="left" width="110" src="images/crow.png" >
+<img align="left" width="140" src="images/crow.png" >
 
 ### Shafayat Hossain **Majumder**
 Prospective MASc (Information Systems Security) Student @[Concordia](https://www.concordia.ca/ginacody.html) |  
@@ -10,8 +10,6 @@ CSE Graduate from [BUET](https://cse.buet.ac.bd/) | Cybersecurity Enthusiast
 [![google scholar](https://img.shields.io/badge/Google%20Scholar-313131?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=52OM7SQAAAAJ&hl=en)
 [![Mail](https://img.shields.io/badge/Mail-313131?style=flat&logo=gmail&logoColor=white)](mailto:monsieurmajumder@gmail.com)
 [![Website](https://img.shields.io/badge/Website-313131?style=flat)](https://mrmajumder.github.io/)
-
-<br>
 
 ## **Interests**
 
@@ -30,18 +28,18 @@ CSE Graduate from [BUET](https://cse.buet.ac.bd/) | Cybersecurity Enthusiast
 | **Testing**               | JUnit, GDB |
 | **Operating Systems**     | Windows, Flavors of Linux (Ubuntu, Linux Mint, Kali), ChromeOS |
 
-## **Statistics**
+<!-- ## **Statistics**
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrmajumder&show_icons=true&locale=en&layout=compact&theme=discord_old_blurple" alt="mrmajumder" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrmajumder&show_icons=true&locale=en&layout=compact&theme=discord_old_blurple" alt="mrmajumder" /></p> -->
 
 ### **Foot Note**
-Beyond academia and research, I am a foodie, lose in chess, do novice photography and enjoy playing the ukulele. I also actively seek opportunities for skill-building, collaboration, and engaging in conversations with new people; so feel free to `hmu`.
+Beyond academia and research, I am a foodie, lose in chess, do novice photography and enjoy playing the ukulele. I also actively seek opportunities for skill-building, collaboration, and engaging in conversations with new people; so feel free to `hmu`. ☕
 
-<p align="center">
+<!-- <p align="center">
     <img src="images/crow.gif" width="80" alt="mrmajumder" />
 </p>
 
-------
+------ -->
 
 
 

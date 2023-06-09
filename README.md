@@ -1,16 +1,5 @@
-<style>
-    .intro {
-        border-radius: 5%;
-        margin: 0 10px 0 0;
-        width: 100px;
-    }
 
-    .outro {
-        width: 70px;
-        margin-bottom: -15px;
-    }
-</style>
-<img align="left" class="intro" src="images/crow.jpeg" >
+<img align="left" width="100" src="images/crow.png" >
 
 ## Shafayat Hossain **Majumder**
 Prospective MASc (Information Systems Security) Student @[Concordia](https://www.concordia.ca/ginacody.html) |  
@@ -49,7 +38,7 @@ CSE Graduate from [BUET](https://cse.buet.ac.bd/) | Cybersecurity Enthusiast
 Beyond academia and research, I am a foodie, lose in chess, do novice photography and enjoy playing the ukulele. I also actively seek opportunities for skill-building, collaboration, and engaging in conversations with new people; so feel free to `hmu`.
 
 <p align="center">
-    <img src="images/crow.gif" alt="mrmajumder" class="outro" />
+    <img src="images/crow.gif" width="80" alt="mrmajumder" />
 </p>
 
 ------

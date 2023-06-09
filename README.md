@@ -11,6 +11,8 @@ CSE Graduate from [BUET](https://cse.buet.ac.bd/) | Cybersecurity Enthusiast
 [![Mail](https://img.shields.io/badge/Mail-313131?style=flat&logo=gmail&logoColor=white)](mailto:monsieurmajumder@gmail.com)
 [![Website](https://img.shields.io/badge/Website-313131?style=flat)](https://mrmajumder.github.io/)
 
+<br/>
+
 ## **Interests**
 
 `Cloud Security` `Cybersecurity` `Blockchain` `Software Development` `Web Development`

@@ -1,7 +1,7 @@
 
-<img align="left" width="100" src="images/crow.png" >
+<img align="left" width="110" src="images/crow.png" >
 
-## Shafayat Hossain **Majumder**
+### Shafayat Hossain **Majumder**
 Prospective MASc (Information Systems Security) Student @[Concordia](https://www.concordia.ca/ginacody.html) |  
 CSE Graduate from [BUET](https://cse.buet.ac.bd/) | Cybersecurity Enthusiast
 

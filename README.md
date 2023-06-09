@@ -1,5 +1,5 @@
 
-<img align="left" width="160" src="images/crow.png" >
+<img align="left" width="180" src="images/crow.png" >
 
 ### Shafayat Hossain **Majumder**
 Prospective MASc (Information Systems Security) Student @[Concordia](https://www.concordia.ca/ginacody.html) |  

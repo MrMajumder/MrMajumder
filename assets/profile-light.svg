@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="825" height="476" viewBox="0 0 825 476" role="img" aria-labelledby="title description">
+<title id="title">Shafayat Hossain Majumder's GitHub profile</title>
+<desc id="description">Terminal-style profile summary with skills, interests, and GitHub statistics.</desc>
+<style>
+text { white-space: pre; }
+.text { fill: #24292f; }
+.muted { fill: #afb8c1; }
+.prompt { fill: #1a7f37; font-weight: 700; }
+.command { fill: #0969da; font-weight: 700; }
+.section { fill: #8250df; font-weight: 700; }
+.key { fill: #953800; }
+.value { fill: #0a3069; }
+.add { fill: #1a7f37; font-weight: 700; }
+.delete { fill: #cf222e; font-weight: 700; }
+</style>
+<rect x="1" y="1" width="823" height="474" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<g font-family="Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" xml:space="preserve">
+<text x="12" y="29" class="text" textLength="801" lengthAdjust="spacing"><tspan class="prompt">mrmajumder@github</tspan><tspan class="text">:~$ </tspan><tspan class="command">basic_info</tspan><tspan class="muted">                                                    </tspan></text>
+<text x="12" y="51" class="text" textLength="801" lengthAdjust="spacing"><tspan class="muted">- </tspan><tspan class="section">About Me</tspan><tspan class="muted"> ------------------------------------------------------------------------</tspan></text>
+<text x="12" y="73" class="text" textLength="801" lengthAdjust="spacing"><tspan class="muted">. </tspan><tspan class="key">Name:</tspan><tspan class="muted"> .................................... </tspan><tspan class="value">Shafayat Hossain Majumder (mrmajumder)</tspan></text>
+<text x="12" y="95" class="text" textLength="801" lengthAdjust="spacing"><tspan class="muted">. </tspan><tspan class="key">Current:</tspan><tspan class="muted"> ................................. </tspan><tspan class="value">Associate Security Engineer @Canonical</tspan></text>
+<text x="12" y="117" class="text" textLength="801" lengthAdjust="spacing"><tspan class="muted">. </tspan><tspan class="key">Education.MASc:</tspan><tspan class="muted"> .............. </tspan><tspan class="value">Information Systems Security, Concordia University</tspan></text>
+<text x="12" y="139" class="text" textLength="801" lengthAdjust="spacing"><tspan class="muted">. </tspan><tspan class="key">Education.BSc:</tspan><tspan class="muted"> ............................. </tspan><tspan class="value">Computer Science &amp; Engineering, BUET</tspan></text>
+<text x="12" y="161" class="text" textLength="801" lengthAdjust="spacing"><tspan class="muted">. </tspan><tspan class="key">Location:</tspan><tspan class="muted"> .............................................. </tspan><tspan class="value">Montreal, Quebec, Canada</tspan></text>
+<text x="12" y="183" class="text" textLength="801" lengthAdjust="spacing"><tspan class="muted">. </tspan><tspan class="key">Origin:</tspan><tspan class="muted"> .............................................................. </tspan><tspan class="value">Bangladesh</tspan></text>
+<text x="12" y="205" class="text" textLength="801" lengthAdjust="spacing"><tspan class="muted">                                                                                   </tspan></text>
+<text x="12" y="227" class="text" textLength="801" lengthAdjust="spacing"><tspan class="muted">- </tspan><tspan class="section">Skills &amp; Interests</tspan><tspan class="muted"> --------------------------------------------------------------</tspan></text>
+<text x="12" y="249" class="text" textLength="801" lengthAdjust="spacing"><tspan class="muted">. </tspan><tspan class="key">Skills:</tspan><tspan class="muted"> ........... </tspan><tspan class="value">Vulnerability management, source code analysis, LLM workflows</tspan></text>
+<text x="12" y="271" class="text" textLength="801" lengthAdjust="spacing"><tspan class="muted">. </tspan><tspan class="key">Interests:</tspan><tspan class="muted"> .................. </tspan><tspan class="value">Offensive security, reverse engineering, bug bounty</tspan></text>
+<text x="12" y="293" class="text" textLength="801" lengthAdjust="spacing"><tspan class="muted">. </tspan><tspan class="key">Languages:</tspan><tspan class="muted"> ................................ </tspan><tspan class="value">Python, Bash, C/C++, JavaScript, Java</tspan></text>
+<text x="12" y="315" class="text" textLength="801" lengthAdjust="spacing"><tspan class="muted">. </tspan><tspan class="key">Hobbies:</tspan><tspan class="muted"> .......................................... </tspan><tspan class="value">Food, chess, photography, gym</tspan></text>
+<text x="12" y="337" class="text" textLength="801" lengthAdjust="spacing"><tspan class="muted">. </tspan><tspan class="key">Certifications:</tspan><tspan class="muted"> ..................................... </tspan><tspan class="value">ISC2 CC, BSCP (In progress)</tspan></text>
+<text x="12" y="359" class="text" textLength="801" lengthAdjust="spacing"><tspan class="muted">                                                                                   </tspan></text>
+<text x="12" y="381" class="text" textLength="801" lengthAdjust="spacing"><tspan class="muted">- </tspan><tspan class="section">GitHub Stats</tspan><tspan class="muted"> --------------------------------------------------------------------</tspan></text>
+<text x="12" y="403" class="text" textLength="801" lengthAdjust="spacing"><tspan class="muted">. </tspan><tspan class="key">Repositories:</tspan><tspan class="muted"> ...................... </tspan><tspan class="value">24</tspan><tspan class="muted"> | </tspan><tspan class="key">Stars earned:</tspan><tspan class="muted"> ....................... </tspan><tspan class="value">9</tspan></text>
+<text x="12" y="425" class="text" textLength="801" lengthAdjust="spacing"><tspan class="muted">. </tspan><tspan class="key">Contributions (1y):</tspan><tspan class="muted"> ............... </tspan><tspan class="value">295</tspan><tspan class="muted"> | </tspan><tspan class="key">Commits:</tspan><tspan class="muted"> .......................... </tspan><tspan class="value">333</tspan></text>
+<text x="12" y="447" class="text" textLength="801" lengthAdjust="spacing"><tspan class="muted">. </tspan><tspan class="key">LOC on GitHub:</tspan><tspan class="muted"> .................. </tspan><tspan class="value">393,097</tspan><tspan class="text"> (</tspan><tspan class="add">1,379,632++</tspan><tspan class="muted"> | </tspan><tspan class="delete">986,535--</tspan><tspan class="text">)</tspan><tspan class="muted"> | </tspan><tspan class="key">Since:</tspan><tspan class="text"> </tspan><tspan class="value">2018</tspan></text>
+</g>
+</svg>

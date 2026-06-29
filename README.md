@@ -1,7 +1,7 @@
 <!-- profile-dashboard:start -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
-  <img src="./assets/profile-light.svg" width="100%" alt="Shafayat Hossain Majumder's Profile">
+  <img src="./assets/profile-light.svg" width="100%" alt="Terminal-style profile for Shafayat Hossain Majumder">
 </picture>
 <!-- profile-dashboard:end -->
 
